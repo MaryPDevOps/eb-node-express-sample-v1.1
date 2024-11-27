@@ -1,0 +1,6 @@
+namespace AspNetAppWithWhiteSource.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
